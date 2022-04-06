@@ -1,0 +1,1 @@
+oh-my-posh init pwsh --config C:\Users\explo\Documents\PowerShell\poshtheme.omp.json | Invoke-Expression
